@@ -44,19 +44,19 @@ hero-btns .btn {
 
 @media screen and (max-width: 960px) {
     .hero-container > h1 {
-        font-size: 60px;
+        font-size: 50px;
         margin-top: -150px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .hero-container > h1 {
-        font-size: 40px;
+        font-size: 30px;
         margin-top: -100px;
     }
 
     .hero-container > p{
-        font-size: 30px;
+        font-size: 20px;
     }
     
     .btn-mobile {
