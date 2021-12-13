@@ -1,0 +1,18 @@
+.my-life {
+    background-image: url('../../images/my-life.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+  }
+  
+  .my-life-header{
+      font-size: 100px;
+  }
+
+  @media only screen and (max-width: 1366px) {
+    .my-life {
+      background-attachment: scroll;
+    }
+}
