@@ -48,7 +48,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/Persistent-Purpose/' className='navbar-logo' onClick={closeMobileMenu}>
             Persistent Purpose
           </Link>
           <div className='menu-icon' onClick={handleClick}>
@@ -56,7 +56,7 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/Persistent-Purpose/' className='nav-links' onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>
