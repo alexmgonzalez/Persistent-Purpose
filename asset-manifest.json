@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Persistent-Purpose/static/css/main.701805a9.chunk.css",
+    "main.css": "/Persistent-Purpose/static/css/main.583cebeb.chunk.css",
     "main.js": "/Persistent-Purpose/static/js/main.5c13a201.chunk.js",
     "main.js.map": "/Persistent-Purpose/static/js/main.5c13a201.chunk.js.map",
     "runtime-main.js": "/Persistent-Purpose/static/js/runtime-main.5d1d27a2.js",
@@ -8,7 +8,7 @@
     "static/js/2.ee0ef394.chunk.js": "/Persistent-Purpose/static/js/2.ee0ef394.chunk.js",
     "static/js/2.ee0ef394.chunk.js.map": "/Persistent-Purpose/static/js/2.ee0ef394.chunk.js.map",
     "index.html": "/Persistent-Purpose/index.html",
-    "static/css/main.701805a9.chunk.css.map": "/Persistent-Purpose/static/css/main.701805a9.chunk.css.map",
+    "static/css/main.583cebeb.chunk.css.map": "/Persistent-Purpose/static/css/main.583cebeb.chunk.css.map",
     "static/js/2.ee0ef394.chunk.js.LICENSE.txt": "/Persistent-Purpose/static/js/2.ee0ef394.chunk.js.LICENSE.txt",
     "static/media/card1.9715ddea.jpg": "/Persistent-Purpose/static/media/card1.9715ddea.jpg",
     "static/media/card2.f143d66a.jpg": "/Persistent-Purpose/static/media/card2.f143d66a.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.5d1d27a2.js",
     "static/js/2.ee0ef394.chunk.js",
-    "static/css/main.701805a9.chunk.css",
+    "static/css/main.583cebeb.chunk.css",
     "static/js/main.5c13a201.chunk.js"
   ]
 }
