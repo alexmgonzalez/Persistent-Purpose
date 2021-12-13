@@ -1,0 +1,18 @@
+.my-work {
+    background-image: url('../../images/my-work.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+  }
+  
+  .my-work-header{
+      font-size: 100px;
+  }
+
+  @media only screen and (max-width: 1366px) {
+    .my-work {
+      background-attachment: scroll;
+    }
+}

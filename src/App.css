@@ -20,7 +20,7 @@ html body {
 .my-life,
 .my-work,
 .tools,
-.about
+.about,
 .resources{
   display: flex;
   height: 90vh;
