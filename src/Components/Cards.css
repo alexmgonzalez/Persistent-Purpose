@@ -103,7 +103,16 @@
     font-size: 18px;
     line-height: 24px;
   }
+
+  .fade-in{
+    opacity: 0;
+    transition: opacity 250ms ease-in;
+  }
   
+  .fade-in.appear{
+    opacity: 1;
+  }
+
   ul{
       list-style-type: none;
   }
@@ -122,6 +131,9 @@
   }
   
   @media only screen and (max-width: 1024px) {
+    .fade-in{
+      opacity: 1;
+    }
     .cards__item {
       margin-bottom: 2rem;
     }

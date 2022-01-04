@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import SocialMediaBar from './Components/SocialMediaBar';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 import Home from './Components/Pages/Home';
@@ -13,6 +14,7 @@ function App() {
     <div>
       <Router>
         <Navbar/>
+        <SocialMediaBar/>
         <Routes>
           <Route path = '/Persistent-Purpose/' element={<Home/>} />
           <Route path = '/my-life' element={<MyLife/>} />

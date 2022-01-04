@@ -1,0 +1,37 @@
+.social-media-bar {
+    background: linear-gradient(90deg, rgb(113, 177,191) 0%, rgb(113, 177,191) 100%);
+    display: flex;
+  }
+
+.social-icon-link{
+    color:#000;
+    font-size: 24px;
+}
+
+.social-media{
+    margin: 5px;
+    display: flex;
+    max-width: 1000px;
+    width: 100%;
+}
+
+.social-icons {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 240px;
+    margin-left: 100px;
+}
+
+.social-logo{
+    color: #fff;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1rem;
+    display: flex;
+    align-self: center;
+    margin-bottom: 16px;
+}
+
