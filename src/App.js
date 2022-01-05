@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 import Home from './Components/Pages/Home';
 import MyLife from './Components/Pages/MyLife';
 import MyWork from './Components/Pages/MyWork';
-import About from './Components/Pages/About';
+import Mission from './Components/Pages/Mission';
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
           <Route path = '/Persistent-Purpose/' element={<Home/>} />
           <Route path = '/my-life' element={<MyLife/>} />
           <Route path = '/my-work' element={<MyWork/>} />
-          <Route path = '/about' element={<About/>} />
+          <Route path = '/mission' element={<Mission/>} />
         </Routes>
         <Footer/>
       </Router>

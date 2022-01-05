@@ -1,0 +1,18 @@
+.mission {
+  background-image: url('../../images/about.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #fff;
+}
+  
+.mission-header{
+  font-size: 100px;
+}
+
+@media only screen and (max-width: 1366px) {
+  .mission {
+      background-attachment: scroll;
+  }
+}

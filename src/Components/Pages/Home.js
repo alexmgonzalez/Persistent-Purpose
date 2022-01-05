@@ -10,7 +10,7 @@ function Home (){
 
     const appearOptions = {
         threshold: 1,
-        rootMargin:"0px 0px  100px 0px"
+        rootMargin:"0px 0px  50px 0px"
 
     };
 
@@ -33,6 +33,7 @@ function Home (){
         <>
         <div className='home'>
             <HeroSection />
+            <h1>CHECK US OUT!</h1>
             <div className ='fade-in' ref = {faders}>
                 <Cards/>
             </div>

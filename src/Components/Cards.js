@@ -8,7 +8,6 @@ import card3 from '../images/card3.jpg'
 function Cards() {
     return (
         <div className='cards'>
-            <h1>CHECK US OUT!</h1>
                 <div className='cards__container'>
                     <div className='cards__wrapper'>
                         <ul className='cards__items'>

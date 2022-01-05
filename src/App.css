@@ -20,10 +20,10 @@ html body {
 .my-life,
 .my-work,
 .tools,
-.about,
+.mission,
 .resources{
   display: flex;
-  height: 90vh;
+  height: 80vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
