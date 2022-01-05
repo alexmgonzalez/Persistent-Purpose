@@ -34,9 +34,8 @@ function Home (){
         <div className='home'>
             <HeroSection />
             <h1>CHECK US OUT!</h1>
-            <div className ='fade-in' ref = {faders}>
+            <div className ='fade-in' ref = {faders}></div>
                 <Cards/>
-            </div>
                 <div className="mid-home">
                     <div className='home-content'>
                         <div className='home-me-p'>
