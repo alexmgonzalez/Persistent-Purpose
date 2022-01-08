@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Persistent-Purpose/static/css/main.4f94dd14.chunk.css",
-    "main.js": "/Persistent-Purpose/static/js/main.0d75dd40.chunk.js",
-    "main.js.map": "/Persistent-Purpose/static/js/main.0d75dd40.chunk.js.map",
+    "main.css": "/Persistent-Purpose/static/css/main.ba244cdd.chunk.css",
+    "main.js": "/Persistent-Purpose/static/js/main.142164ec.chunk.js",
+    "main.js.map": "/Persistent-Purpose/static/js/main.142164ec.chunk.js.map",
     "runtime-main.js": "/Persistent-Purpose/static/js/runtime-main.5d1d27a2.js",
     "runtime-main.js.map": "/Persistent-Purpose/static/js/runtime-main.5d1d27a2.js.map",
     "static/js/2.9feefb98.chunk.js": "/Persistent-Purpose/static/js/2.9feefb98.chunk.js",
     "static/js/2.9feefb98.chunk.js.map": "/Persistent-Purpose/static/js/2.9feefb98.chunk.js.map",
     "index.html": "/Persistent-Purpose/index.html",
-    "static/css/main.4f94dd14.chunk.css.map": "/Persistent-Purpose/static/css/main.4f94dd14.chunk.css.map",
+    "static/css/main.ba244cdd.chunk.css.map": "/Persistent-Purpose/static/css/main.ba244cdd.chunk.css.map",
     "static/js/2.9feefb98.chunk.js.LICENSE.txt": "/Persistent-Purpose/static/js/2.9feefb98.chunk.js.LICENSE.txt",
     "static/media/Mission.css": "/Persistent-Purpose/static/media/about.0a4c53e4.jpg",
     "static/media/card1.9715ddea.jpg": "/Persistent-Purpose/static/media/card1.9715ddea.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.5d1d27a2.js",
     "static/js/2.9feefb98.chunk.js",
-    "static/css/main.4f94dd14.chunk.css",
-    "static/js/main.0d75dd40.chunk.js"
+    "static/css/main.ba244cdd.chunk.css",
+    "static/js/main.142164ec.chunk.js"
   ]
 }
