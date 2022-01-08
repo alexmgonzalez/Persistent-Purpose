@@ -78,11 +78,11 @@ function Navbar() {
                 onMouseLeave={onToolsMouseLeave}
             >
               <Link
-                to='/tools'
+                to='/plan'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Tools <i className='fas fa-caret-down'/>
+                Plan <i className='fas fa-caret-down'/>
               </Link>
               {toolsdropdown && <ToolsDropdown/>}
             </li>

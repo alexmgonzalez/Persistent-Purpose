@@ -13,8 +13,8 @@ function App() {
   return (
     <div>
       <Router>
+      <SocialMediaBar/>
         <Navbar/>
-        <SocialMediaBar/>
         <Routes>
           <Route path = '/Persistent-Purpose/' element={<Home/>} />
           <Route path = '/my-life' element={<MyLife/>} />

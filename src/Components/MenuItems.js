@@ -1,5 +1,5 @@
 
-export const ToolsItems =[
+/*export const ToolsItems =[
     {
         title: 'Accountablility Tracker',
         path: '/accountability-tracker',
@@ -18,6 +18,19 @@ export const ToolsItems =[
     {
         title: 'Perfect Week',
         path: '/perfect-week',
+        cName: 'dropdown-link'
+    }
+] */
+
+export const ToolsItems =[
+    {
+        title: 'My Life',
+        path: '/my-life',
+        cName: 'dropdown-link'
+    },
+    {
+        title: 'My Work',
+        path: '/my-work',
         cName: 'dropdown-link'
     }
 ]
